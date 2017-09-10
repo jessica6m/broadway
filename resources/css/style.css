@@ -32,11 +32,7 @@ p {
   font-size: 14px;
 }
 
- .border {
-  background-image: url("broadway.jpg");
-}
-
-.design {
+.design, .border {
  background-image: url("broadway.jpg");
 }
 
